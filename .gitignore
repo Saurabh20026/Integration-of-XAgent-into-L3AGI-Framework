@@ -1,0 +1,10 @@
+__pycache__
+.env
+.idea
+
+draft.md
+
+.docs
+.db
+
+.DS_Store
